@@ -34,6 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahajjaved20&show_icons=true&theme=radical" alt="wahajjaved20" /></p>
 <div> </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahajjaved20&show_icons=true&locale=en" alt="wahajjaved20" /></p>
-<div> </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahajjaved20&" alt="wahajjaved20" /></p>
