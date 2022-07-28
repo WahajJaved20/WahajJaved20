@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahajjaved20&theme=onedark" alt="wahajjaved20" /></a> </p>
 
-- 🔭 I’m currently studying in **FAST National University and i am an academic content writer part time.**
+- 🔭 I’m currently a blockchain intern at **ERLY Stage Studios**
 
 - 🌱 I’m currently learning **Data Science, Flutter, React, Python, Solidity.**
 
