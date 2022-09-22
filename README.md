@@ -8,7 +8,7 @@
 <li>🔭 I’m currently working on BraveNewDAO (A Borrowing and Lending Web3 DApp).</li>
 <li>🧐 Learning about <strong>Database Systems</strong>, <strong>Parallel and Distributed Architectures</strong>, and some <strong>Algorithmic Analysis</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/WahajJaved20">Github</a>.</li>
-<li>💬 Ping me about <strong>react, Flutter, Solidity, and Cyber Security stuff</strong>.</li>
+<li>💬 Ping me about <strong>React, Flutter, Solidity, and Cyber Security stuff</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1lKhLUqUHpIsf4j0lTMln8WV-ZRvCgefJ/view?usp=sharing">resume</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
