@@ -1,36 +1,39 @@
-<h1 align="center">Hola 👋, I'm Wahaj Javed</h1>
-<h3 align="center">A passionate learner and hardworker</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajjaved20&label=Profile%20views&color=0e75b6&style=flat" alt="wahajjaved20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahajjaved20&theme=onedark" alt="wahajjaved20" /></a> </p>
-
-- 🔭 I’m currently a blockchain intern at **ERLY Stage Studios**
-
-- 🌱 I’m currently learning **Data Science, Flutter, React, Python, Solidity.**
-
-- 👯 I’m looking to collaborate on **Projects which are interesting and mind-boggling because challenges are the fun part of life.**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **tech-related stuff.**
-
-- 📫 How to reach me **email: wahaj.javed02@gmail.com**
-
-- ⚡ Fun fact **I can watch TV series for over 12 hours easily.**
-
-<h3 align="left">Connect with me:</h3>
+<!--TODO: ADD PORTFOLIO-->
+<h2>Hey 👋, I'm Wahaj Javed</h2>
+<p>I'm currently a Blockchain Developer Intern at <strong><a href="https://www.erlystagestudios.com">Erly Stage Studios</a></strong>  I am working on some side projects, and trying to conquer the world with my variety of knowledge in diverse fields.</p>
+<p><a href="https://medium.com/@wahaj.javed02"><img src="https://img.shields.io/badge/-@wahaj-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@wahaj.javed02" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/wahaj-javed-20k02028/"><img src="https://img.shields.io/badge/-@wahaj-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/wahaj-javed-20k02028/" alt="LinkedIn Badge"></a> <a href=https://www.hackerrank.com/wahaj_javed"><img src="https://img.shields.io/badge/-@wahaj-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/wahaj_javed" alt="Hackerrank Badge"></a>  <a href=https://codeforces.com/profile/SyntaxError20"><img src="https://img.shields.io/badge/-@SyntaxError20-yellowgreen?style=flat-square&amp;labelColor=fff&amp;logo=Codeforces&amp;link=https://codeforces.com/profile/SyntaxError20" alt="Codeforces Badge"></a></p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on BraveNewDAO (A Borrowing and Lending Web3 DApp).</li>
+<li>🧐 Learning about <strong>Database Systems</strong>, <strong>Parallel and Distributed Architectures</strong>, and some <strong>Algorithmic Analysis</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/WahajJaved20">Github</a>.</li>
+<li>💬 Ping me about <strong>react, Flutter, Solidity, and Cyber Security stuff</strong>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1lKhLUqUHpIsf4j0lTMln8WV-ZRvCgefJ/view?usp=sharing">resume</a>.</li>
+</ul>
+<h2>✒️ Recent Posts</h2>
+<details>
+    <summary>Explore</summary>
+    <li><a target="_blank" href="https://medium.com/coinmonks/how-to-work-with-floating-points-in-solidity-how-to-calculate-amortizing-loans-in-solidity-cacfeaaa2b49">How to use Floating Points in Solidity? || How to Calculate Amortizing Loans in Solidity? — August 20, 2022</a></li>
+</details>
+<h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<a href="https://twitter.com/wahajUwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahajjaved" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wahaj-javed-20k02028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahaj javed" height="30" width="40" /></a>
-<a href="https://fb.com/wahaj.javed.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wahaj javed ii" height="30" width="40" /></a>
-<a href="https://instagram.com/wahaj.javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_failed_human" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wahaj_javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wahaj_javed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/syntaxerror20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="syntaxerror20" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg.svg" alt="solidity" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg.svg" alt="vscode" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg.svg" alt="c" width="40" height="40" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahajjaved20&show_icons=true&theme=radical" alt="wahajjaved20" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahajjaved20&theme=dark" alt="wahajjaved20" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=WahajJaved20&show_icons=true&count_private=true" alt="WahajJaved20" />
