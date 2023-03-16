@@ -36,5 +36,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 </p>
-<img src="https://tryhackme.com/badge/688002"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=WahajJaved20&show_icons=true&count_private=true&theme=tokyonight" alt="WahajJaved20" />
