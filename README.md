@@ -15,6 +15,7 @@
 <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://medium.com/coinmonks/how-to-work-with-floating-points-in-solidity-how-to-calculate-amortizing-loans-in-solidity-cacfeaaa2b49">How to use Floating Points in Solidity? || How to Calculate Amortizing Loans in Solidity? — August 20, 2022</a></li>
+    <li><a target="_blank" href="https://medium.com/@wahaj.javed02/acm-cys-intra-fast-ctf-challenges-67cafeb95f81">ACM Intra-Fast Capture The Flag Competition Writeup — March 20, 2023</a></li>
 </details>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
