@@ -1,10 +1,8 @@
 # Hey 👋, I'm Wahaj Javed
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## 💫 About Me:
 🔭 I’m currently working on getting into Cyber Security .<br>🧐 Learning about Information Retrieval, Artificial Intelligence</br> and Computer Networks.<br>💬 Ping me about React, Flutter, Solidity, and Cyber Security stuff.
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</br>
-</br>
 
 ## 🌐 Socials:
 <p><a href="https://medium.com/@wahaj.javed02"><img src="https://img.shields.io/badge/-@wahaj-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@wahaj.javed02" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/wahaj-javed-20k02028/"><img src="https://img.shields.io/badge/-@wahaj-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/wahaj-javed-20k02028/" alt="LinkedIn Badge"></a> <a href=https://www.hackerrank.com/wahaj_javed"><img src="https://img.shields.io/badge/-@wahaj-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/wahaj_javed" alt="Hackerrank Badge"></a>  <a href=https://codeforces.com/profile/SyntaxError20"><img src="https://img.shields.io/badge/-@SyntaxError20-yellowgreen?style=flat-square&amp;labelColor=fff&amp;logo=Codeforces&amp;link=https://codeforces.com/profile/SyntaxError20" alt="Codeforces Badge"></a> <a href="https://leetcode.com/user6969WN/"><img src="https://img.shields.io/badge/-@user6969WN-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/user6969WN/" alt="leetcode Badge"></a></p>
