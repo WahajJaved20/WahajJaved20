@@ -1,6 +1,7 @@
 # Hey 👋, I'm Wahaj Javed
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" />
 
+<p><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-dragon-ball-super-broly-WOb8EeFziTQNE02WXs">via GIPHY</a></p>
 ## 💫 About Me:
 🔭 I’m currently working on getting into Cyber Security .<br>🧐 Learning about Information Retrieval, Artificial Intelligence</br> and Computer Networks.<br>💬 Ping me about React, Flutter, Solidity, and Cyber Security stuff.
 
