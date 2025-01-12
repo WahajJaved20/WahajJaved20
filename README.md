@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" />
 
 ## 💫 About Me:
-🔭 I’m currently working on getting into Cyber Security .<br>🧐 Learning about Information Retrieval, Artificial</br> Intelligence and Computer Networks.<br>💬 Ping me about React, Flutter, Solidity, and Cyber Security stuff.<br />
+🔭 I’m currently an Associate Software Development Engineer at <a href="https://securiti.ai/" > Securiti A.I </a> . Still the explorer looking into various fields🤔<br />
 Portfolio Link: <a href="https://wahaj-javed-portfolio.vercel.app">wahaj</a>
 
 ## 🌐 Socials:
