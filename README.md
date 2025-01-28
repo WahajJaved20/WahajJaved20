@@ -13,7 +13,7 @@ Portfolio Link: <a href="https://wahaj-javed-portfolio.vercel.app">wahaj</a>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://medium.com/coinmonks/how-to-work-with-floating-points-in-solidity-how-to-calculate-amortizing-loans-in-solidity-cacfeaaa2b49">How to use Floating Points in Solidity? || How to Calculate Amortizing Loans in Solidity? — August 20, 2022</a></li>
     <li><a target="_blank" href="https://medium.com/@wahaj.javed02/acm-cys-intra-fast-ctf-challenges-67cafeb95f81">ACM Intra-Fast Capture The Flag Competition Writeup — March 20, 2023</a></li>
-    <li><a target="_blank" href="https://medium.com/@wahaj.javed02/acm-cys-intra-fast-ctf-challenges-67cafeb95f81"How to run DeepSeek-r1 Locally — January 28, 2025</a></li>
+    <li><a target="_blank" href="https://medium.com/@wahaj.javed02/how-to-run-deepseek-r1-locally-on-windows-10-11-213200a1295a">How to run DeepSeek-r1 Locally — January 28, 2025</a></li>
     
 </details>
 
