@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" />
 
 ## 💫 About Me:
-🔭 I’m currently an Associate Software Development Engineer at <a href="https://securiti.ai/" > Securiti A.I </a> . Still the explorer looking into various fields🤔<br />
+🔭 I’m currently a Software Engineer at <a href="https://securiti.ai/" > Securiti A.I </a> . Still the explorer looking into various fields🤔<br />
 Portfolio Link: <a href="https://wahaj-javed-portfolio.vercel.app">wahaj</a>
 
 ## 🌐 Socials:
